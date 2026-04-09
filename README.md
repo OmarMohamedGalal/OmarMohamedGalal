@@ -54,12 +54,6 @@
 
 ---
 
-## 📊 GitHub Statistics:
-<p align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Omasuuuu16&theme=dark&hide_border=false" width="48%"/>
-</p>
-
 
 ---
 <p align="center">
