@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Omar+Mohamed+Galal;Data+Engineer+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Omar+Mohamed+Galal;Software+Engineer" />
 </h1>
 
 <h3 align="center">🚀 Aspiring Full Stack Web  | Data Science </h3>
