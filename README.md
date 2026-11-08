@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Omar+Mohamed+Galal;Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Omar+Mohamed+Galal;Data+Engineer" />
 </h1>
 
-<h3 align="center">🚀 Aspiring Full Stack Web  | Data Science </h3>
+<h3 align="center">🚀 Aspiring Data Analysis  | Data Science </h3>
 
 # 💫 About Me:
-About Me:<br>- Faculty of Computer Science & Artificial Intelligence, Helwan University<br>- Information Systems (IS) Department<br>- Interested in Data Science & MERN Stack Web Development<br>- Goal: To build impactful, data-driven solutions and scalable web applications while continuously developing my technical skills.
+About Me:<br>- Faculty of Computer Science & Artificial Intelligence, Helwan University<br>- Information Systems (IS) Department<br>- Interested in Data Science & Data analysis<br>- Goal: To build impactful, data-driven solutions and data analysis, prediction.
 
 
 ## 🌐 Socials:
